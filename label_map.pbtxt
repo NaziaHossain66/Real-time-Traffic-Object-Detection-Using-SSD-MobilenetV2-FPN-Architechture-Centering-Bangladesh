@@ -1,0 +1,84 @@
+item { 
+	name:'ambulance'
+	id:1
+}
+item { 
+	name:'auto-rickshaw'
+	id:2
+}
+item { 
+	name:'bicycle'
+	id:3
+}
+item { 
+	name:'bus'
+	id:4
+}
+item { 
+	name:'car'
+	id:5
+}
+item { 
+	name:'garbage van'
+	id:6
+}
+item { 
+	name:'human hauler'
+	id:7
+}
+item { 
+	name:'minibus'
+	id:8
+}
+item { 
+	name:'minivan'
+	id:9
+}
+item { 
+	name:'motorbike'
+	id:10
+}
+item { 
+	name:'Pickup'
+	id:11
+}
+item { 
+	name:'army vehicle'
+	id:12
+}
+item { 
+	name:'police car'
+	id:13
+}
+item { 
+	name:'rickshaw'
+	id:14
+}
+item { 
+	name:'scooter'
+	id:15
+}
+item { 
+	name:'suv'
+	id:16
+}
+item { 
+	name:'taxi'
+	id:17
+}
+item { 
+	name:'three-wheelers (CNG)'
+	id:18
+}
+item { 
+	name:'truck'
+	id:19
+}
+item { 
+	name:'van'
+	id:20
+}
+item { 
+	name:'wheelbarrow'
+	id:21
+}
